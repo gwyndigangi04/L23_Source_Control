@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 # Creating x-axis with range and y-axis with Sine
 # Function for Plotting Sine Graph
 x = np.arange(0, 2*np.pi, 0.01)
-frequency = 15
+frequency = 25
 amp = 3
 y = amp*np.sin(x * frequency)
 
